@@ -1,20 +1,19 @@
-#-------------------------------------------------------------------------------
-# Name:        module1
-# Purpose:
+# Name:        module2
 #
-# Author:      DELL PC
+# Author:      Sourav Dutta
 #
-# Created:     02-12-2023
-# Copyright:   (c) DELL PC 2023
-# Licence:     <your licence>
-#------------------------------------------------------------------------------
+# Created:     04-01-2024
+
+
+
+
 # Rock_paper_Scissor
 
 import random
 
 def rock_paper_scissor():
 
-    player = input("What is your Choice - 'r' for Rock,'p' for Paper,'s' for Scissor" )
+    player = input("What is your Choice - 'r' for Rock,'p' for Paper,'s' for Scissor.  " )
 
     choices = ['r','p','s']
 
